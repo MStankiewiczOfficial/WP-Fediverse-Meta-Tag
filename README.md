@@ -18,7 +18,7 @@ The first site that uses the plugin is [fossgralnia.pl](https://fossgralnia.pl) 
 
 **Downloading**: Download the newest version from [releases](https://github.com/MStankiewiczOfficial/WP-Fediverse-Meta-Tag/releases).
 
-**Customize Settings**: Before uploading the plugin to the server, open the file `fediverse-meta-tag.php` in text editor and customize the appropriate Fediverse addresses for users (change lines 51-54 for users and 56 and 61 for the default address).
+**Customize Settings**: Before uploading the plugin to the server, open the file `fediverse-meta-tag.php` in text editor and customize the appropriate Fediverse handles for users (change lines 51-54 for users and 56 and 61 for the default handles).
 
 ### Option 1. **Uploading via WP Dashboard**:
 
@@ -47,4 +47,4 @@ The extension automatically adds the `fediverse:creator` tag with the author to 
 
 ## Customization
 
-You can customize the default email addresses assigned to specific users in the plugin code. Change `user1@example.com` and `user2@example.com` to the appropriate Fediverse addresses, and also set the default address for posts.
+You can customize the default Fediverse handles assigned to specific users in the plugin code. Change `user1@example.com` and `user2@example.com` to the appropriate Fediverse handles, and also set the default handles for posts.
