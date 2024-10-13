@@ -22,10 +22,11 @@ The first site that uses the plugin is [fossgralnia.pl](https://fossgralnia.pl) 
 
 ### Option 1. **Uploading via WP Dashboard**:
 
-1. Log in to your WordPress admin panel.
-2. Go to **Plugins** > **Add New**.
-3. Click **Upload Plugin**.
-4. Choose the `fediverse-meta-tag.php` file from your computer and click **Install Now**.
+1. Pack the file as a zip.
+2. Log in to your WordPress admin panel.
+3. Go to **Plugins** > **Add New**.
+4. Click **Upload Plugin**.
+5. Choose the zip file from your computer and click **Install Now**.
 
 ### Option 2. **Manual Upload**:
 
